@@ -1,0 +1,10 @@
+{
+  "bindings": [
+    {
+      "name": "difs",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ],
+  "scriptFile": "../dist/AskChatGPT/index.js"
+}

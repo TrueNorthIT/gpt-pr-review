@@ -1,0 +1,10 @@
+{
+  "bindings": [
+    {
+      "name": "prcomment",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ],
+  "scriptFile": "../dist/CommentOnPR/index.js"
+}
